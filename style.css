@@ -1,0 +1,21 @@
+body {
+  background-color: rgba(202, 194, 168, 0.938);
+}
+
+h1 {
+  color: black;
+}
+
+h2 {
+  color: rgb(99, 17, 17)
+}
+
+p {
+  color: black;
+  font-family: verdana;
+  font-size: 75%
+}
+
+img {
+  float: right;
+}
